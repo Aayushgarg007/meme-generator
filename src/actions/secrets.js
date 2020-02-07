@@ -1,4 +1,4 @@
 const username = 'VickyGarg';
-const password = 'qwerty@99';
+const password = 'webdev@22';
 
 export { username, password };
